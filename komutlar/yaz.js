@@ -18,3 +18,8 @@ exports.help = {
   description: 'İstediğiniz şeyi bota yazdırır.',
   usage: 'yaz [yazdırmak istediğiniz şey]'
 };
+      
+
+
+
+saaaaaaaaaaaaaaaaaaaaaaaaaaa
